@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: "Montserrat", sans-serif;
+}
+
+@import './scss/body';
+@import './scss/header';
+@import './scss/inputPost';
+@import './scss/post';
+@import './scss/footer';
